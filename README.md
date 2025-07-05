@@ -3,6 +3,7 @@ Multi-Factor Authentication System using Node.js and Google Authenticator
  Project Overview:
 This project is a secure login system that integrates Multi-Factor Authentication (MFA) to provide an extra layer of protection beyond just a username and password. Built using Node.js and Express, it guides users through a smooth and simple authentication process using Google Authenticator.
 After logging in with credentials and solving a CAPTCHA, users are prompted to enable MFA (if not already done). A unique QR code is generated, which they scan using the Google Authenticator app. Once verified with a time-based OTP, MFA is enabled for future logins, significantly increasing account security.
+
 Key Features:
 •	Username & Password Login
 •	CAPTCHA verification to block automated login attempts
@@ -19,6 +20,7 @@ Key Features:
 •	Speakeasy – For generating and verifying TOTP codes
 •	qrcode – For generating QR codes for Google Authenticator
 •	express-session – For handling user sessions
+
  Demo Credentials:
 •	Username: test_user
 •	Password: securepassword123
