@@ -41,3 +41,9 @@ o	User enters the OTP to complete setup
 •	Simple, guided user experience
 •	Fully responsive and accessible design
 
+![welcome](https://github.com/user-attachments/assets/33592a7b-1d77-4ebd-875b-2e9fb2004e24)
+![QR CODE](https://github.com/user-attachments/assets/8d56ba4d-2677-4af5-9a7b-7354e092a7ed)
+![login](https://github.com/user-attachments/assets/54936769-a3af-46c5-b427-d7bb0cc3d629)
+
+
+
